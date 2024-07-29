@@ -1,0 +1,53 @@
+{
+  "desktop": {
+    "sp": {
+      "width": "1920px",
+      "top": "-199px",
+      "left": "0px"
+    },
+    "gt": {
+      "width": "2038px",
+      "top": "-138px",
+      "left": "0px"
+    },
+    "oyo": {
+      "width": "1920px",
+      "top": "35px",
+      "left": "0px"
+    }
+  },
+  "tablet": {
+    "sp": {
+      "width": "1434px",
+      "top": "-135px",
+      "left": "-613px"
+    },
+    "gt": {
+      "width": "1434px",
+      "top": "-94px",
+      "left": "-4px"
+    },
+    "oyo": {
+      "width": "1412px",
+      "top": "40px",
+      "left": "-172px"
+    }
+  },
+  "mobile": {
+    "sp": {
+      "width": "1386px",
+      "top": "-124px",
+      "left": "-878px"
+    },
+    "gt": {
+      "width": "1312px",
+      "top": "-75px",
+      "left": "-123px"
+    },
+    "oyo": {
+      "width": "1106px",
+      "top": "46px",
+      "left": "-247px"
+    }
+  }
+}
